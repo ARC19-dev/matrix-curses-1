@@ -1,9 +1,19 @@
 # matrix-curses
 
-Python curses gadget (python 2.x/3.x).
+<a href="https://github.com/drmats/matrix-curses/">
+    <img
+    	src="https://raw2.github.com/drmats/matrix-curses/master/icon.png"
+    	align="left"
+    	hspace="10"
+    >
+</a>
 
-Simple matrix-like console "screensaver". Works on systems which have
-python installation with [curses module](http://docs.python.org/3.3/library/curses.html).
+[Python](http://python.org/) curses gadget (python 2.x/3.x).
+
+Simple matrix-like console "screensaver".<br>
+Works on systems which have python installation with
+[curses module](http://docs.python.org/3.3/library/curses.html) included.
+
 Original code written in 2007.
 
 

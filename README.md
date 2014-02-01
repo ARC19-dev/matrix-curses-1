@@ -1,0 +1,4 @@
+matrix-curses
+=============
+
+Console gadget.

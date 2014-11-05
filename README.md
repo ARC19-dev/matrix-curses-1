@@ -2,7 +2,7 @@
 
 <a href="https://github.com/drmats/matrix-curses/">
     <img
-        src="https://raw2.github.com/drmats/matrix-curses/master/icon.png"
+        src="https://raw.githubusercontent.com/drmats/matrix-curses/master/icon.png"
         align="left"
         hspace="10"
     >

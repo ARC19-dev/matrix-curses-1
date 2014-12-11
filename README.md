@@ -38,5 +38,5 @@ the latest version.
 ## license
 
 **matrix-curses** is released under the BSD 2-Clause license. See the
-[LICENSE](https://raw2.github.com/drmats/matrix-curses/master/LICENSE)
+[LICENSE](https://raw.githubusercontent.com/drmats/matrix-curses/master/LICENSE)
 for more details.

@@ -10,11 +10,13 @@
 
 [Python](http://python.org/) curses gadget (python 2.x/3.x).
 
-Simple matrix-like console "screensaver".<br>
+Simple matrix-like console "screensaver".<br />
 Works on systems which have python installation with
 [curses module](http://docs.python.org/3.3/library/curses.html) included.
 
 Original code written in 2007.
+
+<br />
 
 
 
@@ -25,12 +27,18 @@ No installation is necessary. Just
 [download](https://raw2.github.com/drmats/matrix-curses/master/matrix-curses.py)
 the latest version.
 
+<br />
+
 
 
 
 ## usage
 
-    $ python matrix-curses.py
+```bash
+$ python matrix-curses.py
+```
+
+<br />
 
 
 
